@@ -1,5 +1,5 @@
 ### Getting real atm
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rimexe0&theme=transparent)](https://git.io/streak-stats)
 <!--
 **rimexe0/rimexe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
